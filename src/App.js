@@ -1,10 +1,10 @@
 import './App.css';
-import PricingPage from './Component/PricingPage';
+import ListItem from './Component/ListItem';
 
 export default function MyApp() {
     return (
         <div className='App'>
-            <PricingPage />
+            <ListItem />
         </div>
     );
 }
