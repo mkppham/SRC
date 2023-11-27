@@ -32,7 +32,7 @@ const products = [
         discount: 15,
         image: 'https://tiemchupanh.com/wp-content/uploads/2022/12/TUNAphotorg_VUU-Cake-Menu_06-03-22_1979.jpg',
         rating: 4.7,
-        sale: false,
+        sale: true,
     },
 
     {
@@ -45,28 +45,28 @@ const products = [
     },
 
     {
-        name: 'Product 6',
-        price: 32.99,
-        discount: 0,
+        name: 'Samsung Galaxy A54 5G',
+        price: 8.490,
+        discount: 19,
         image: 'https://tiemchupanh.com/wp-content/uploads/2022/12/TUNAphotorg_VUU-Cake-Menu_07-03-22_2161.jpg',
         rating: 4.9,
-        sale: false,
+        sale: true,
     },
 
     {
-        name: 'Product 7',
-        price: 21.99,
-        discount: 12,
-        image: 'https://tiemchupanh.com/wp-content/uploads/2022/12/TUNAphotorg_VUU-Cake-Menu_07-03-22_2199.jpg',
+        name: 'Samsung Galaxy A34 5G',
+        price: 6.790,
+        discount: 20,
+        image: 'https://cdn1.viettelstore.vn/images/Product/ProductImage/medium/GIC-A34.jpg',
         rating: 3.5,
         sale: true,
     },
 
     {
-        name: 'Product 8',
-        price: 27.99,
-        discount: 3,
-        image: 'https://tiemchupanh.com/wp-content/uploads/2022/12/TUNAphotorg_VUU-Cake-Menu_07-03-22_2260.jpg',
+        name: 'Iphone 15 plus 128gb',
+        price: 25.490,
+        discount: 2,
+        image: 'https://cdn1.viettelstore.vn/images/Product/ProductImage/medium/iPhone-15-pink1.jpg',
         rating: 4.2,
         sale: true,
     },
