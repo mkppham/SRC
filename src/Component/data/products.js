@@ -68,8 +68,17 @@ const products = [
         discount: 3,
         image: 'https://tiemchupanh.com/wp-content/uploads/2022/12/TUNAphotorg_VUU-Cake-Menu_07-03-22_2260.jpg',
         rating: 4.2,
-        sale: false,
+        sale: true,
     },
+
+    {
+        name: 'Samsung S23 ultra 8/256',
+        price: 25.990,
+        discount: 19,
+        image:'https://cdn1.viettelstore.vn/images/Product/ProductImage/medium/New-UI_S23-Ultra.jpg',
+        rating: 4.5,
+        sale: true,
+    }
 ];
 
 export default products;
