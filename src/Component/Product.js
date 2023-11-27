@@ -22,9 +22,9 @@ const Product = ({ name, price, discount, image, rating, sale }) => {
             </div>
             <div className="rating">{stars}</div>
             {sale ? (
-                <button className="add-to-cart">Add to Cart</button>
+                <button className="add-to-cart">Mua</button>
             ) : (
-                <button className="view-options">View Options</button>
+                <button className="view-options">Mua</button>
             )}
         </div>
    );

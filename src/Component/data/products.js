@@ -1,61 +1,62 @@
 const products = [
     {
-        name: 'Product 1',
-        price: 19.99,
+        name: 'iPhone 15 Pro Max 256GB',
+        price: 1361.54,
         discount: 10,
-        image: 'https://tiemchupanh.com/wp-content/uploads/2022/12/TUNAphotorg_VUU-Cake-Menu_06-03-22_1906.jpg',
+        image: 'https://cdn1.viettelstore.vn/Images/Product/ProductImage/1941091074.jpeg',
         rating: 4.5,
         sale: true,
     },
 
     {
-        name: 'Product 2',
-        price: 29.99,
+        name: 'iPhone 15 Pro Max 512GB',
+        price: 1856.79,
         discount: 0,
-        image: 'https://tiemchupanh.com/wp-content/uploads/2022/12/TUNAphotorg_VUU-Cake-Menu_06-03-22_1920.jpg',
+        image: 'https://cdn1.viettelstore.vn/Images/Product/ProductImage/1824707052.jpeg',
         rating: 3.8,
         sale: false,
     },
 
     {
-        name: 'Product 3',
-        price: 24.99,
+        name: 'Apple Watch Series 9 GPS 41mm Sport Band S/M',
+
+        price: 866.28,
         discount: 5,
-        image: 'https://tiemchupanh.com/wp-content/uploads/2022/12/TUNAphotorg_VUU-Cake-Menu_06-03-22_1961.jpg',
+        image: 'https://cdn1.viettelstore.vn/Images/Product/ProductImage/962047102.jpeg',
         rating: 4.0,
         sale: true,
     },
 
     {
-        name: 'Product 4',
-        price: 39.99,
+        name: 'Apple Watch Ultra viền Titanium dây Alpine Loop size S 49mm',
+        price: 771.36 ,
         discount: 15,
-        image: 'https://tiemchupanh.com/wp-content/uploads/2022/12/TUNAphotorg_VUU-Cake-Menu_06-03-22_1979.jpg',
+        image: 'https://cdn1.viettelstore.vn/Images/Product/ProductImage/552132356.jpeg',
         rating: 4.7,
         sale: true,
     },
 
     {
-        name: 'Product 5',
-        price: 14.99,
+        name: 'iPhone 14 Pro 512GB',
+        price: 1300.04,
         discount: 8,
-        image: 'https://tiemchupanh.com/wp-content/uploads/2022/12/TUNAphotorg_VUU-Cake-Menu_07-03-22_2105.jpg',
+        image: 'https://cdn1.viettelstore.vn/Images/Product/ProductImage/455303857.jpeg',
         rating: 3.2,
         sale: true,
     },
 
     {
         name: 'Samsung Galaxy A54 5G',
-        price: 8.490,
+        price: 346.68,
         discount: 19,
-        image: 'https://tiemchupanh.com/wp-content/uploads/2022/12/TUNAphotorg_VUU-Cake-Menu_07-03-22_2161.jpg',
+        image: 'https://cdn1.viettelstore.vn/Images/Product/ProductImage/1552407676.jpeg',
         rating: 4.9,
         sale: true,
     },
 
     {
         name: 'Samsung Galaxy A34 5G',
-        price: 6.790,
+        price: 276.52,
         discount: 20,
         image: 'https://cdn1.viettelstore.vn/images/Product/ProductImage/medium/GIC-A34.jpg',
         rating: 3.5,
@@ -64,7 +65,7 @@ const products = [
 
     {
         name: 'Iphone 15 plus 128gb',
-        price: 25.490,
+        price: 1048.29,
         discount: 2,
         image: 'https://cdn1.viettelstore.vn/images/Product/ProductImage/medium/iPhone-15-pink1.jpg',
         rating: 4.2,
@@ -73,7 +74,7 @@ const products = [
 
     {
         name: 'Samsung S23 ultra 8/256',
-        price: 25.990,
+        price: 1073.05,
         discount: 19,
         image:'https://cdn1.viettelstore.vn/images/Product/ProductImage/medium/New-UI_S23-Ultra.jpg',
         rating: 4.5,
