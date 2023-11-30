@@ -76,7 +76,7 @@
 }
 
 .product {
-    flex: 0 0 calc(25% - 32px); 
+    flex: 0 0 calc(25% - 32px); /* 32px là tổng margin và padding của sản phẩm */
     margin: 16px;
     text-align: center;
     max-width: 250px;
@@ -85,4 +85,31 @@
 .tieu-de {
     text-align: center;
     font-size: 30px;
+}
+
+.cart-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+}
+
+.cart-table th, .cart-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+
+.cart-table th {
+    background-color: #f2f2f2;
+}
+
+.cart-total {
+    margin-top: 10px;
+    font-size: 18px;
+}
+
+.cart {
+    margin-bottom: 20px;
+    padding: 10px;
+    border: 1px solid #cccc;
+    text-align: center;
 }
