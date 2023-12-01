@@ -1,4 +1,4 @@
-import ".Component/Phạm Kim Kiên/style.css"
+
 
 function Student({id, name, image, email}) {
     return (
